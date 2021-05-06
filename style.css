@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+}
+#welcome{
+    background-image: linear-gradient(lightgreen,blue);
+}
+img{
+    border-radius: 50%;
+}
